@@ -26,6 +26,35 @@
 
 
 
-
 // ==================== 2- misol =================
+
+// ==================== 3- misol =================
+
+// const students = [
+//     { ism: "Ali", yosh: 20, fanlari: ["Matematika", "Fizika"] },
+//     { ism: "Vali", yosh: 21, fanlari: ["Matematika", "Informatika"] },
+//     { ism: "Sami", yosh: 22, fanlari: ["Fizika", "Informatika"] }
+// ];
+
+// function fan(students) {
+//     const fanlar = {};
+
+//     for (let student of students) {
+//         for (let fan of student.fanlari) {
+//             if (fanlar[fan]) {
+//                 fanlar[fan]++;
+//             } else {
+//                 fanlar[fan] = 1;
+//             }
+//         }
+//     }
+
+//     return fanlar;
+// }
+// console.log((students));
+
+
+// ==================== 4- misol =================
+
+
 
